@@ -1,5 +1,5 @@
 # IGNITECH : Fighting Fire With Data
-
+![alt text](DataPipeline.jpg)
 ## Data Cleaning and Profiling on Fire Incidents Data  
 By Arunima Mitra (am13018@nyu.edu)
 ### Overview
